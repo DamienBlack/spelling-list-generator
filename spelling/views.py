@@ -1,5 +1,5 @@
-from spelling import app, generator
-from flask import render_template, request
+from spelling import app, generator, storage
+from flask import render_template, request, redirect, abort, url_for
 
 import sys
 
@@ -21,8 +21,19 @@ def generate():
             word_counts = request.form.getlist('count'),
             shuffle = request.form.get('shuffle', 'yes')
             )
+    
+    identifier = storage.save(title, pages)
+    return redirect(url_for('view_list', id=identifier))
 
-    return render_template('list.html', title=title, pages=pages)
+@app.route('/list/<id>')
+def view_list(id):
+    word_list = storage.load(id)
+    if word_list:
+        return render_template('list.html', 
+                title=word_list.title, 
+                pages=word_list.pages)
+    else:
+        abort(404)
     
 
 @app.route('/foo')
