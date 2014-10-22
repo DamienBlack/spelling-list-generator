@@ -1,7 +1,6 @@
 {
     "name": "Spelling List Generator",
     "description": "Simple webapp to randomly generate spelling bee word lists.",
-    "repository": "https://github.com/dwahler/spelling-list-generator",
     
     "env": {
         "SETTINGS": "heroku.cfg"
