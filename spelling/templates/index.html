@@ -1,0 +1,92 @@
+<html>
+<head>
+    <title>Spelling List Generator</title>
+</head>
+<body>
+    <h1>Spelling List Generator</h1>
+
+    <form action="/generate" method="POST">
+        <table border="1" cellpadding="3">
+            <tr>
+                <td style="width: 30%"><b>Title:</b></td>
+                <td><input type="text" name="title" value="Spelling Bee"></td>
+            </tr>
+            <tr>
+                <td><b>Number of contestants per division:</b></td>
+                <td><input type="text" name="contestants" value="1"></td>
+            </tr>
+            <tr>
+                <td><b>Number of words per round:</b>
+                    <i>(optional)</i></td>
+                <td><input type="text" name="wordsPerRound"></td>
+            </tr>
+            <tr>
+                <td><b>Number of tiebreaker words:</b>
+                    <i>(optional)</i></td>
+                <td>
+                    <input type="text" name="tiebreakers"> from
+                    <select name="tiebreakerList"><option></option><option value="list1">List 1</option><option value="list2">List 2</option><option value="list3">List 3</option></select>
+                </td>
+            </tr>
+            <tr>
+                <td><b>Distribution of words:</b><br>
+                    <i>This is the total number of words for one contestant, from all rounds. For each list you want to use,
+                        select the list from the drop-down menu and type in the number of words from that list in the text box.
+                        Start from the top and leave any extra rows blank. The sum of these numbers is the total number of words per
+                        person for the entire competition.</i></td>
+                <td>
+                    <table style="border: none">
+                        <tr>
+                            <th>Word List</th><th># of words</th>
+                        </tr>
+                        <tr>
+                            <td><select name="list"><option></option><option value="list1">List 1</option><option value="list2">List 2</option><option value="list3">List 3</option></select></td>
+                            <td><input name="count"></td>
+                        </tr>
+                        <tr>
+                            <td><select name="list"><option></option><option value="list1">List 1</option><option value="list2">List 2</option><option value="list3">List 3</option></select></td>
+                            <td><input name="count"></td>
+                        </tr>
+                        <tr>
+                            <td><select name="list"><option></option><option value="list1">List 1</option><option value="list2">List 2</option><option value="list3">List 3</option></select></td>
+                            <td><input name="count"></td>
+                        </tr>
+                        <tr>
+                            <td><select name="list"><option></option><option value="list1">List 1</option><option value="list2">List 2</option><option value="list3">List 3</option></select></td>
+                            <td><input name="count"></td>
+                        </tr>
+                        <tr>
+                            <td><select name="list"><option></option><option value="list1">List 1</option><option value="list2">List 2</option><option value="list3">List 3</option></select></td>
+                            <td><input name="count"></td>
+                        </tr>
+                    </table>
+                    <b>Shuffle words?</b><br>
+                    <input type="radio" name="shuffle" value="yes" id="shuffle_yes" checked>
+                    <label for="shuffle_yes">Yes: Mix words from these lists in a random order.</label><br>
+                    <input type="radio" name="shuffle" value="no" id="shuffle_no">
+                    <label for="shuffle_no">No: Choose words from lists in this order.</label><br><br>
+                    Example: Suppose the spelling bee is 4 rounds of 4 words per contestant (16 words total),
+                    and the distribution is set to 12 words from list 1 and 4 words from list 2. If shuffling is on,
+                    each word will have a 75%/25% chance of coming from either list at random. If shuffling is off,
+                    the first 3 rounds will use list 1 and the last round will use list 2.
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <b>Words to exclude (if any):</b><br>
+                    <i>Enter words separated by spaces or each on their own line. Make sure to spell them correctly!</i>
+                </td>
+                <td>
+                    <textarea rows="10" cols="50" name="omitted"></textarea>
+                </td>
+            </tr>
+        </table>
+        <input type="submit" value="Generate Lists">
+
+<!--        <p style="font-size: 75%; margin-top: 3em; border-top: 1px solid #ccc; padding-top: 1em">
+        Designed by David Wahler. Email:
+        <a href="mailto:dwahler@gmail.com">dwahler@gmail.com</a></p>-->
+
+    </form>
+</body>
+</html>

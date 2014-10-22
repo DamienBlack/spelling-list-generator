@@ -1,0 +1,30 @@
+h1, h2 {
+    text-align: center;
+}
+
+.section {
+    page-break-after: always;
+    page-break-inside: avoid;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+th {
+    border-bottom: 2px solid #000;
+}
+
+td.word {
+    font-weight: bold;
+    font-style: normal;
+    padding-left: 0;
+}
+
+td {
+    font-weight: normal;
+    font-style: italic;
+    border-bottom: 1px solid #ccc;
+    padding: 1px 0.5em;
+}
+
