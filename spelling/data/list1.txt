@@ -61,11 +61,11 @@
 "Balloon","n., v. small inflatable rubber toy; to cause to swell out","Origin: French ballone, 'large ball'","Sentence: Cindy is playing with a red balloon.","Double Consonant","French Origin"
 "Bandanna or Bandana","n. brightly coloured material worn esp. around head or neck","Origin: Hindi bandhna, 'to tie'","Sentence: The folk dancers were all wearing bandanas.","Plural",
 "Bankrupt","adj., n. unable to pay debts; insolvent person","Origin: Italian banca-rotta 'broken bank'","Sentence: Failure of his business left him bankrupt.","Italian Origin",
-"Baptism","n. symbolic admission to the Christian church, using water","Origin: Greek Greekbaptizo, 'baptize'","Sentence: Christians see baptism as an important religious rite.","Greek Origin",
+"Baptism","n. symbolic admission to the Christian church, using water","Origin: Greek baptizo, 'baptize'","Sentence: Christians see baptism as an important religious rite.","Greek Origin",
 "Barbecue","n., v. meal cooked outdoors over charcoal","Origin: French Haitian","Sentence: We are going to invite some friends over for a Sunday afternoon barbecue.",,
 "Barricade","n., v. barrier esp. improvised; to block or defend","Origin: French barrique, 'barrel'","Sentence: A barricade was hurriedly built to block the street.","Double Consonant","French Origin"
 "Barrier","n. fence or gate to protect or separate or prevent entrance","Origin: French barriere, 'bar'","Sentence: The police put up a barrier to keep back the crowd.","Double Consonant","French Origin"
-"Barrister","n. a lawyer qualified to speak in high courts of law","Origin: Latinbarra, 'bar, rod'","Sentence: The barrister successfully defended his client.","Latin Origin",
+"Barrister","n. a lawyer qualified to speak in high courts of law","Origin: Latin barra, 'bar, rod'","Sentence: The barrister successfully defended his client.","Latin Origin",
 "Barrow","n. small cart with wheels used to carry items","Origin: Old English bearwe, 'a bier'","Sentence: The barrow was used to carry sand for the building.","Old English Origin","Double Consonant"
 "Basic","adj. fundamental; critical","Origin: Medieval English","Sentence: One basic rule for good writing is correct spelling.","Word base suffix",
 "Baste","v. to sew with large loose stitches; moisten with fat etc. during cooking","Origin: French bastir, 'to build'","Sentence: She has learnt to baste the hemline of her dress.","French Origin",
@@ -194,7 +194,7 @@
 "Coronation","n. ceremony of crowning a king or queen","Origin: Latin coronare, 'to crown'","Sentence: A new king is officially crowned at a coronation ceremony.","Latin Origin",
 "Correspond","v. to communicate by letter writing; to be similar or matching","Origin: Latin correspondere (respondere) 'to respond, reply'","Sentence: Pen pals normally correspond by mail.","Double Consonant",
 "Counteract","v. to hinder; lessen the effect of; prevent","Origin: Latin contra 'against'","Sentence: This medicine will counteract the poison.","Latin Origin",
-"Cousin","n. child of one's uncle or aunt","Origin: Latinconsorbrinus,'mother's sister's child'","Sentence: My uncle's or my aunt's child is my first cousin.","Latin Origin",
+"Cousin","n. child of one's uncle or aunt","Origin: Latin consorbrinus,'mother's sister's child'","Sentence: My uncle's or my aunt's child is my first cousin.","Latin Origin",
 "Craziness","n. (used usually as a slang) madness; extreme ehnthusiams; irregularity","Origin: Middle English craze, 'to break, shatter'","Sentence: It is craziness to go out in such a storm.","Middle English",
 "Cricketer","n. person who plays cricket","Origin: Uncertain","Sentence: Courtney Walsh is a good cricketer.","ar-er-or Word","Ending"
 "Crocodile","n. large tropical reptile related to and resembling the alligator","Origin: Greek krokodilos, 'worm of the stones'","Sentence: A crocodile can live in water as well as on land.","Greek Origin",
@@ -268,7 +268,7 @@
 "Detect","v. to discover or perceive","Origin: Latin detegere, 'to uncover'","Sentence: Did you detect any signs of weakness in his movements?","Latin Origin",
 "Detour","n., v. divergence from usual route; to make a divergence","Origin: French detour, 'change of direction'","Sentence: The travellers had to take a detour because of flooding on the usual route.","French Origin",
 "Diagram","n. chart or plan; outline; drawing","Origin: Greek diagramma, 'thing written, marked out by lines'","Sentence: The boundaries of the property were easily identified on the diagram.","Greek Origin",
-"Dialogue or Sialog","n. conversation between two or more persons","Origin: Greek dialogos, 'to converse'","Sentence: Children learn well when there is dialogue between them and their teachers.","Greek Origin",
+"Dialogue or Dialog","n. conversation between two or more persons","Origin: Greek dialogos, 'to converse'","Sentence: Children learn well when there is dialogue between them and their teachers.","Greek Origin",
 "Diaper","n. baby's nappy; fabric with small diamond pattern","Origin: Greek aspros (diaspros), 'white'","Sentence: The baby's diaper is wet.","Greek Origin",
 "Diary","n. daily record of events or thoughts; book for this","Origin: Latin dies, 'day'","Sentence: I must remember to write in my diary every day.","Latin Origin",
 "Digital","adj. giving a reading by numbers (digits) displayed","Origin: Latin digitus, 'finger, toe'","Sentence: Everyone finds it easy to read a digital clock.","Latin Origin",
@@ -551,7 +551,7 @@
 "Havoc","n. great destruction; widespread confusion or disorder","Origin: French havot, 'plunder, loot'","Sentence: Strong winds cause havoc with the trees.","French Origin",
 "Hazard","n., v. danger or risk; obstacle; to risk or attempt","Origin: Arabic az-zahr, 'chance, luck'","Sentence: Smoking is considered a hazard to people's health.","Arabic Origin",
 "Hazelnut","n. the edible nut of the hazel tree","Origin: Old English haesel ('hazel') + 'nut'","Sentence: A hazelnut has a hard brown shell which has to be cracked.","Old English Origin",
-"Headquarters","n. head office; main office of an organization","Origin: Words head ('chief') + quarto ('accomodation')","Sentence: Our police headquarters are on Old Hope Road.","Compound Word",
+"Headquarters","n. head office; main office of an organization","Origin: Words head ('chief') + quarto ('accommodation')","Sentence: Our police headquarters are on Old Hope Road.","Compound Word",
 "Healthiness","n. good health (physical and mental condition)","Origin: Old English, related to 'hale, heal, health'","Sentence: His healthiness is due to good diet and exercise.","Old English Origin","Ending"
 "Hearse","n. vehicle for conveying the coffin at a funeral","Origin: Latin hirpex icis, 'large rake'","Sentence: A hearse transported the coffin to the grave.","Latin Origin",
 "Heartily","adv. in a hearty, very friendly manner; to a great degree","Origin: Middle English, related to 'heart'","Sentence: He was greeted heartily by all his supporters.","Middle English Origin",
@@ -835,7 +835,7 @@
 "Notable","adj. worthy of note; significant; distinguished","Origin: Latin notare, 'to note, observe'","Sentence: I have underlined all the notable points in the chapter.",,
 "Notary","n. a person (like a Justice of the Peace) authorized to perform certain legal functions","Origin: Latin notarius, 'secretary'","Sentence: Many official documents have to be signed by a notary public.","Latin Origin",
 "Notch","n., v. a V-shaped cut to leave a mark as a reminder; to make that notch","Origin: French noche","Sentence: He cuts a notch in that stick to mark every time he gets an 'A'.","French Origin",
-"Noteworthy","adj. worthy of attention; remarkble","Origin: Words note + worthy","Sentence: Sentecne: The choir gave a noteworthy performance in yesterday's concert.","Compound Word",
+"Noteworthy","adj. worthy of attention; remarkble","Origin: Words note + worthy","Sentence: The choir gave a noteworthy performance in yesterday's concert.","Compound Word",
 "Noticeable","adj. easily seen or noticed; noteworthy","Origin: Latin notitia, 'fame, being known'","Sentence: The mistake was hardly noticeable but I still lost points.",,
 "Noughts","n. plural name of the digit 0 or zero","Origin: Old English ne, ('not') + owiht (something","Sentence: One million is written with six noughts, while one thousand has three.","Plural","Old English Origin"
 "Nourishment","n. food; sustenance; nutrient","Origin: Latin nutrire, 'to feed, care for'","Sentence: Our bodies get much of their nourishment from the food we eat.","Latin Origin","Ending"
@@ -1149,7 +1149,7 @@
 "Torturing","v. inflicting severe physical or mental pain","Origin: Latin tortura, 'torment'","Sentence: They kept torturing the man hoping he would tell what he knew.","Latin Origin",
 "Tragedy","n. serious accident, disaster etc; sad event; drama ending unhappily","Origin: Greek tragos + oide, 'goat song'","Sentence: The train accident has been a real tragedy in this village.","Greek Origin",
 "Traitor","n. one who is disloyal to country or friend; one who betrays","Origin: Latin traditort, 'betrayer'","Sentence: The traitor gave away his country's secrets.","ar-er-or Words","Latin Origin"
-"Traveller or Traveler","n. person who travels or is travelling","Origin: Middle English traveillenl, 'to make ajourney, torture' (similar totravail)","Sentence: That traveller has visited many countries.","Middle English",
+"Traveller or Traveler","n. person who travels or is travelling","Origin: Middle English traveillenl, 'to make a journey, torture' (similar totravail)","Sentence: That traveller has visited many countries.","Middle English",
 "Treason","n. betrayal of one's country; a crime","Origin: Latin traditor, 'betrayer'","Sentence: In many countries treason is punishable by death.","Latin Origin",
 "Tremors","n. slight earthquakes; trembling or shaking of voice, body etc.","Origin: Latin tremere, 'to tremble, shake'","Sentence: Several tremors were felt after the heavy earthquake.","Plural","Latin Origin"
 "Trestle","n. structure for supporting table, bridge, etc.","Origin: Latin transtrum, 'cross beam'","Sentence: There is a creeper growing on a trestle in the garden.","Latin Origin",
