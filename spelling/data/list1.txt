@@ -100,7 +100,7 @@
 "Browse","v., n. to read leisurely for enjoyment; twigs, shoots etc. as fodder","Origin: French brost, 'bud'","Sentence: They had enough time to browse through the day's newspapers.","French Origin",
 "Bruise","n., v. damage to skin caused esp. by a blow; to bruise","Origin: Old English 'crush'","Sentence: The bruise on her arm is a result of the fall she had.","Old English Origin",
 "Buccaneer","n. pirate, unscrupulous adventurer","Origin: French boucan, 'frame for smoking meat'","Sentence: The buccaneer sailed the Caribbean Sea and robbed many ships.","Double Consonant",*French Origin~
-"Buffalo","n. wild ox of Africa or Asia","Origin: Greek boubalos, 'wild oxantelpoe'","Sentence: The buffalo is related to the cow.","Greek Origin",
+"Buffalo","n. wild ox of Africa or Asia","Origin: Greek boubalos, 'wild ox, antelope'","Sentence: The buffalo is related to the cow.","Greek Origin",
 "Bulge","n. irregular swelling","Origin: Latin bulga, 'bag'","Sentence: Thebulge on my forehead was noticeable.","Latin Origin",
 "Bulletin","n. short official news report","Origin: Italian diminutive of bulla, 'bull (document from the Pope)'","Sentence: As the hurricane approached, we listened to one bulletin after another.","Double Consonant",*Italian Origin~
 "Bungalow","n. one storeyed house","Origin: Hindi bangala, 'in the style of Bengal'","Sentence: She lived in a small bungalow near the sea.","Short Vowel",
